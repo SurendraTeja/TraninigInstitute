@@ -1,0 +1,142 @@
+
+.body1{
+    background-image: url('training.jpeg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.body2{
+    background-image: url('training.jpeg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.body3{
+    background-image: url('training.jpeg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.details1{
+    background-image: url('img.jpg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.details2{
+    background-image: url('img.jpg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.details3{
+    background-image: url('img.jpg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.header1{
+    background-image: url('images (2).jpeg');
+    background-repeat: round;
+    background-size: cover;
+    height: 75px;
+    width: 1520px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace; 
+}
+.footer{
+    background-image: url('footer.jpeg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 48px;  
+}
+.register{
+    background-image: url('register.jpeg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.login{
+    background-image: url('login.jpeg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 700px;
+}
+.adminlogin{
+    background-image: url('login2.jpeg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 700px;
+}
+.Header2{
+    background-image: url('images (2).jpeg');
+    background-repeat: round;
+    background-size: cover;
+    height: 75px;
+    width: 1520px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace; 
+}
+.Header3{
+    background-image: url('images (2).jpeg');
+    background-repeat: round;
+    background-size: cover;
+    height: 75px;
+    width: 1520px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace; 
+}
+.removemyaccount{
+    background-image: url('removemyaccount.jpg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 680px;
+}
+
+.update{
+    background-image: url('updatemyaccount.jpg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.update2{
+    background-image: url('updatemyaccount3.jpg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.showdetails{
+    background-image: url('showdetails1.jpg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.showdetails2{
+    background-image: url('showdetails2.jpg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.deleteuser{
+    background-image: url('deleteuser.jpg');
+    background-repeat: round;
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+
